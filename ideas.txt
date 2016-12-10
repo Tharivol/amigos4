@@ -1,0 +1,3 @@
+1) Robert suggested to use a thesaurus api to suggest alternative words.
+
+2) Jeff suggested a hover over or on click event over words that kids don't know, which would supply suggestions from the thesaurus in a popup.
